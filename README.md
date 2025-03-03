@@ -15,7 +15,7 @@ This repository serves as a portfolio of AI projects that I have developed to ho
 
 ## Projects
 
-### 1. Celebrity Identifier
+### 1. Celebrity Identifier Using Gemini 2.0 Flash LLM API
 - **Description**: Developed an intelligent agent capable of identifying celebrities from uploaded images and outputting detailed information about them. This solution leverages the Gemini 2.0 Flash LLM API to process image inputs and generate comprehensive celebrity profiles.
 - **Technologies**: Python, PIL, ipywidgets, dotenv, Google Generative AI.
 - **Key Features**:
